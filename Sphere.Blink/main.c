@@ -58,4 +58,7 @@ int main(void)
 			nanosleep(&sleepTime, NULL);
 		}
 	}
+
+	// Exit with success.
+	return 0;
 }
