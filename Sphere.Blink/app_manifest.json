@@ -1,0 +1,14 @@
+{
+  "SchemaVersion": 1,
+  "Name" : "Sphere_Blink",
+  "ComponentId" : "6998b77e-87c8-4311-aafd-9af4fa2ba1bc",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [],
+    "Gpio": [ 8, 9, 10 ],
+    "Uart": [],
+    "WifiConfig": false
+  },
+  "ApplicationType":"Default"
+}
