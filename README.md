@@ -6,7 +6,7 @@
 
 - Windows 10
 - Visual Studio 2019
-- Claimed Azure Avnet Azure Sphere MT3620 Starter Kit device
+- Claimed Avnet Azure Sphere MT3620 Starter Kit device
 - Device must be set to debug mode
 
 ## Features
