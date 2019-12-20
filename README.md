@@ -23,7 +23,7 @@ This is a proof-of-concept app that's purely build for having fun! All features 
 
 ## Publications
 
-- Personal Blog: [https://tscholze.uber.space/2019/08/24/azure-sphere-blink-das-erste-mal-wieder-c/]([Azure Sphere] Blink – Das erste Mal wieder C)
+- Personal Blog: [[Azure Sphere] Blink – Das erste Mal wieder C](https://tscholze.uber.space/2019/08/24/azure-sphere-blink-das-erste-mal-wieder-c)
 - Dr. Windows: [Auspacken und Antesten des Azure Sphere Dev Kit](https://www.drwindows.de/news/auspacken-und-antesten-des-azure-sphere-dev-kit)
 
 ## Contributing
