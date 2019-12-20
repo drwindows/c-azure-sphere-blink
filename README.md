@@ -21,6 +21,11 @@ Clone or download the script, compile and deploy it to the Azure Sphere device.
 
 This is a proof-of-concept app that's purely build for having fun! All features have room for improvements or could harm the hardware.
 
+## Publications
+
+- Personal Blog: [https://tscholze.uber.space/2019/08/24/azure-sphere-blink-das-erste-mal-wieder-c/]([Azure Sphere] Blink – Das erste Mal wieder C)
+- Dr. Windows: [Auspacken und Antesten des Azure Sphere Dev Kit](https://www.drwindows.de/news/auspacken-und-antesten-des-azure-sphere-dev-kit)
+
 ## Contributing
 
 Feel free to improve the quality of the code. It would be great to learn more from experienced C#, UWP and IoT developers.
